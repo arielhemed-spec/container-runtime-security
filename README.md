@@ -29,6 +29,9 @@ v (Process Inspection)
 | 3. Writes alert to alerts.json                     |
 +----------------------------------------------------+
 
+<img width="1294" height="579" alt="image" src="https://github.com/user-attachments/assets/0f16854f-cecb-4ade-a476-d265ad378095" />
+
+
 
 ## Quick Start
 
