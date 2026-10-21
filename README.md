@@ -42,7 +42,7 @@ v (Process Inspection)
 ### 2. Setup & Installation
 Clone the repository and install dependencies:
 ```bash
-git clone [https://github.com/](https://github.com/)<YOUR-USERNAME>/container-runtime-security.git
+git clone [https://github.com/](https://github.com/)arielhemed-spec/container-runtime-security.git
 cd container-runtime-security
 pip install -r requirements.txt
 3. Run Target Container
